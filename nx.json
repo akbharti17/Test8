@@ -15,6 +15,7 @@
     ],
     "sharedGlobals": [
       "{workspaceRoot}/.github/workflows/ci.yml",
+      "{workspaceRoot}/.github/workflows/ci.yml",
       "{workspaceRoot}/.github/workflows/ci.yml"
     ]
   },
